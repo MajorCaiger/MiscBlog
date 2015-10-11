@@ -1406,14 +1406,14 @@ button[type=submit],
   display: block;
 }
 
-.page-header {
+#main > .page-header {
     display: block;
     background: #DA4453;
     padding: 50px;
     margin: 0px;
 }
 
-.page-title {
+#main > .page-header .page-title {
     color: #ffffff;
     font-size: 64px;
     font-family: inherit;
