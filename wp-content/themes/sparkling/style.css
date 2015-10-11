@@ -1405,3 +1405,16 @@ button[type=submit],
 .no-js table#wp-calendar {
   display: block;
 }
+
+.page-header {
+    display: block;
+    background: #DA4453;
+    padding: 50px;
+    margin: 0px;
+}
+
+.page-title {
+    color: #ffffff;
+    font-size: 64px;
+    font-family: inherit;
+}
