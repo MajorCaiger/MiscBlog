@@ -56,9 +56,6 @@
 		    	?>
 			</div><!-- .entry-content -->
 			<?php endif; ?>
-            <script type="text/javascript"><!--
-                amazon_ad_tag = "blogmajorapps-21"; amazon_ad_width = "468"; amazon_ad_height = "60"; amazon_ad_link_target = "new"; amazon_ad_border = "hide"; amazon_ad_categories = "abcdflen";//--></script>
-            <script type="text/javascript" src="http://ir-uk.amazon-adsystem.com/s/ads.js"></script>
 		</div>
 	</div>
 </article><!-- #post-## -->
