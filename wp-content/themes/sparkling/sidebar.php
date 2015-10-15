@@ -32,5 +32,8 @@
 				</aside>
 
 			<?php endif; // end sidebar widget area ?>
+            <script type="text/javascript"><!--
+                amazon_ad_tag = "blogmajorapps-21"; amazon_ad_width = "300"; amazon_ad_height = "250"; amazon_ad_link_target = "new"; amazon_ad_border = "hide"; amazon_ad_categories = "abcdflen";//--></script>
+            <script type="text/javascript" src="http://ir-uk.amazon-adsystem.com/s/ads.js"></script>
 		</div>
 	</div><!-- #secondary -->
